@@ -1,0 +1,22 @@
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\bin\Debug\net6.0-windows\Spades Tracker.exe
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.csproj.AssemblyReference.cache
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades_Tracker.Form1.resources
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades_Tracker.Form2.resources
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades_Tracker.StartForm.resources
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.csproj.GenerateResource.cache
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.AssemblyInfoInputs.cache
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.AssemblyInfo.cs
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.dll
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\refint\Spades Tracker.dll
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.pdb
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\bin\Debug\net6.0-windows\Spades Tracker.deps.json
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\bin\Debug\net6.0-windows\Spades Tracker.runtimeconfig.json
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\bin\Debug\net6.0-windows\Spades Tracker.dll
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\bin\Debug\net6.0-windows\Spades Tracker.pdb
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades Tracker.genruntimeconfig.cache
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\ref\Spades Tracker.dll
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades_Tracker.Properties.Resources.resources
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades_Tracker.spadesWdw.resources
+C:\Users\Micah\source\repos\Spades Tracker\Spades Tracker\obj\Debug\net6.0-windows\Spades_Tracker.Settings.resources

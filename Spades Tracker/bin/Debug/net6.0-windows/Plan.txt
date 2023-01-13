@@ -1,0 +1,39 @@
+Console.WriteLine("Bet 1: ");
+
+Console.WriteLine("Bet 2: ");
+
+Console.WriteLine("Bet 3: ");
+
+Console.WriteLien("Bet 4: ");
+
+(rotate clockwise);
+
+- announces whos betting first
+- put name instead of player 1
+- 
+
+V
+ 
+Keep Track of Bets
+
+V
+
+Put in the amount of bets everyone wins.
+
+V
+
+Distributes points 
+
+V 
+
+Adds Bags
+
+V
+
+if reaches 10 bags - 100
+
+
+
+
+
+
