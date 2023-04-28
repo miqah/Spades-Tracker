@@ -1,5 +1,4 @@
 # Spades-Tracker
-SpadesTracker is a desktop application that keeps track of the score in the popular card game Spades. The rules of Spades can be found everywhere online.This program was developed in the C# language. 
+SpadesTracker is a desktop application developed in C# that keeps track of the score in the popular card game Spades. Comes with settings that allows the user to change when the game ends and how many points earned for various hands. 
 
-How to play Spades: https://www.youtube.com/watch?v=HgmnrYt-Xf4
 
